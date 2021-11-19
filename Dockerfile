@@ -47,4 +47,4 @@ CMD         ["mule-enterprise-standalone-4.4.0/bin/mule"]
 #CMD echo "--- Register Mule runtime ---"
 #CMD         ["mule-enterprise-standalone-4.4.0/bin/./amc_setup -H f767511c-027a-4131-b0bf-852e52fec50e---373887 general"]
 
-RUN cd /Mule/mule-enterprise-standalone-4.4.0/bin && ./amc_setup -H f767511c-027a-4131-b0bf-852e52fec50e---373887 general
+RUN cd /Mule/mule-enterprise-standalone-4.4.0/bin && ./amc_setup -H af9c5e94-50a8-4596-8bbe-89eb3513ad56---603382 pepsi
